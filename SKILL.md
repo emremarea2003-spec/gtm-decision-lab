@@ -30,6 +30,8 @@ Read `references/evidence-standards.md` when judging evidence quality, confidenc
 
 Read `references/source-map.md` when the user asks for market research, competitor research, buyer research, channel research, or when the brief needs external evidence beyond user-provided notes.
 
+Use `assets/intake-template.md` when the user's input is too short, scattered, or missing stage/evidence/constraint details. Ask the user to fill only the fields needed for the current decision; do not force the full template for small requests.
+
 ### 2. Diagnose GTM Stage
 
 Classify the user's stage and adapt the output:
@@ -112,6 +114,12 @@ Always include an evidence ledger:
 - Assumption
 - Risk if wrong
 - Validation action
+
+Use `examples/sample-output-ai-sales-risk.md` or `examples/sample-output-devtool-analytics.md` only as shape references when the user asks what a good result looks like. Do not copy their conclusions into a new user's brief.
+
+## Maintenance Check
+
+Use `evals/golden-cases.md` after changing the skill to check whether the workflow still handles sparse input, pre-revenue GTM, and evidence-heavy GTM audits. These cases are not user-facing templates.
 
 ## Quality Gates
 
