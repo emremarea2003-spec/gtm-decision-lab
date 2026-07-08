@@ -1,3 +1,5 @@
+> Stop asking AI for GTM plans. Start asking which GTM assumptions are still unsafe.
+
 # GTM Decision Lab
 
 Most GTM agents write plans.
@@ -37,6 +39,13 @@ GTM Decision Lab 的目标不是生成一份漂亮方案，而是帮你回答：
 
 > 这个 GTM 判断，现在到底能不能信？
 
+## Examples
+
+- [AI sales risk tool input](examples/sample-input-ai-sales-risk.md)
+- [AI sales risk tool output](examples/sample-output-ai-sales-risk.md)
+- [Developer analytics tool input](examples/sample-input-devtool-analytics.md)
+- [Developer analytics tool output](examples/sample-output-devtool-analytics.md)
+  
 ## Core principle
 
 Most GTM agents generate plans.  
