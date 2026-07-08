@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29791544/README.md)
 # GTM Decision Lab
 
 **Stop asking AI for GTM plans. Start asking which market assumptions are still unsafe.**
